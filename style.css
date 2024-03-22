@@ -14,6 +14,12 @@ body {
     padding: 20px;
 }
 
+body {
+    background-image: url('baldos.png'); /* Reemplaza 'ruta/a/la/imagen-de-ceramica.jpg' con la ruta de tu imagen de cerámica */
+    background-repeat: repeat; /* Esto hará que la imagen de fondo se repita en todas las direcciones */
+    background-size: cover; /* Ajusta el tamaño de la imagen de fondo para cubrir todo el cuerpo */
+}
+
 /* Header styles */
 header {
     text-align: center;
