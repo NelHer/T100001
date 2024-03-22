@@ -79,6 +79,8 @@ img {
     height: auto;
     margin: 0 auto; /* Center the image horizontally */
     margin-bottom: 10px;
+    border-radius: 50%; /* Añade bordes redondeados para dar forma circular */
+    border: 3px solid #fff; /* Agrega un borde blanco */
 }
 
 /* Footer styles */
